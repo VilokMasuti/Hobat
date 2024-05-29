@@ -1,5 +1,6 @@
 
-import { CiMail, CiLocationOn } from 'react-icons/ci';
+import { CiLocationOn } from 'react-icons/ci';
+import {  CiMail } from 'react-icons/ci';
 import i from '../assets/i.png';
 
 const Hero = () => {
